@@ -1,0 +1,167 @@
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\Inutil.exe.config
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\Inutil.exe
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\Inutil.pdb
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\Dapper.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\MetroFramework.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\bin\Debug\Dapper.xml
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Carga.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.ClienteEmpleado.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Devolucion.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Form1.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.frmPrint.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Inspeccion.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Menu.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Properties.Resources.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Renta.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Reporte.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.Vehiculo.resources
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.csproj.GenerateResource.Cache
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\RdlCompile.cache
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\RdlCompile.compiled
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.exe
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.pdb
+C:\Users\Fabio V\Documents\Visual Studio 2015\Projects\Inutil\Inutil\obj\Debug\Inutil.csprojResolveAssemblyReference.cache
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\Inutil.exe.config
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\Inutil.exe
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\Inutil.pdb
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\Dapper.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\MetroFramework.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\bin\Debug\Dapper.xml
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Carga.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.ClienteEmpleado.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Devolucion.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Form1.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.frmPrint.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Inspeccion.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Menu.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Properties.Resources.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Renta.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Reporte.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Vehiculo.resources
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.csproj.GenerateResource.Cache
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\RdlCompile.cache
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\RdlCompile.compiled
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.exe
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.pdb
+C:\Users\Fabio V\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.csprojResolveAssemblyReference.cache
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\Inutil.exe.config
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.exe
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.pdb
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\Inutil.exe
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\Inutil.pdb
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\Dapper.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\MetroFramework.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\bin\Debug\Dapper.xml
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.csprojResolveAssemblyReference.cache
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Carga.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.ClienteEmpleado.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Devolucion.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Form1.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.frmPrint.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Inspeccion.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Menu.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Properties.Resources.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Renta.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Reporte.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.Vehiculo.resources
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\Inutil.csproj.GenerateResource.Cache
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\RdlCompile.cache
+C:\Users\Pabel\Desktop\Manin\Inutil\Inutil\obj\Debug\RdlCompile.compiled
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Inutil.exe.config
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.exe
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.pdb
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Inutil.exe
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Inutil.pdb
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Dapper.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\MetroFramework.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\Dapper.xml
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.csprojResolveAssemblyReference.cache
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Carga.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.ClienteEmpleado.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Devolucion.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Form1.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.frmPrint.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Inspeccion.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Menu.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Properties.Resources.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Renta.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Reporte.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Vehiculo.resources
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\Inutil.csproj.GenerateResource.Cache
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\RdlCompile.cache
+C:\Users\Fabio Victor\Downloads\Exoneración\Inutil\Inutil\obj\Debug\RdlCompile.compiled
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Inutil.exe.config
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.exe
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.pdb
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Inutil.exe
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Inutil.pdb
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Dapper.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\MetroFramework.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\Dapper.xml
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.csprojResolveAssemblyReference.cache
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Carga.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.ClienteEmpleado.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Devolucion.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Form1.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.frmPrint.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Inspeccion.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Menu.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Properties.Resources.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Renta.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Reporte.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.Vehiculo.resources
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\Inutil.csproj.GenerateResource.Cache
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\RdlCompile.cache
+C:\Users\Fabio Victor\Documents\Visual Studio 2015\Projects\Exoneración\Inutil\Inutil\obj\Debug\RdlCompile.compiled
